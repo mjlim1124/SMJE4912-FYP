@@ -1,0 +1,19 @@
+TY  - JOUR
+DO  - 10.1088/1742-6596/1631/1/012094
+UR  - https://dx.doi.org/10.1088/1742-6596/1631/1/012094
+TI  - UAV Altitude Measurement Method Based on Data Fusion and Kalman Filter
+T2  - Journal of Physics: Conference Series
+AU  - Yang, Junjia
+AU  - Qian, Bing
+AU  - Zhang, Erwei
+AU  - Qu, Kun
+PY  - 2020
+DA  - 2020/09/01
+PB  - IOP Publishing
+SP  - 012094
+IS  - 1
+VL  - 1631
+SN  - 1742-6596
+SN  - 1742-6588
+AB  - Accurate altitude measurement of UAV is very important for its flight mission. Based on the analysis of the measurement performance of different altitude measurement sensors, this paper designs a multi-altitude measurement sensor fusion filtering structure, and then describes the fusion filtering method. This method mainly provides weighted fusion of data from various altitude measurement sensors to obtain altitude information with higher accuracy than any sensor. Through Kalman filtering of the fusion data, more accurate flight altitude data of UAV can be obtained. The method is validated by a typical example. The results show that the proposed method can solve the problem of precise measurement of altitude data in UAV flight process, and has certain theoretical significance and good application value.
+ER  - 

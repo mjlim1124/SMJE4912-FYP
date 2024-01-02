@@ -1,0 +1,20 @@
+TY  - JOUR
+T1  - Development of control algorithm for a quadcopter
+AU  - Tagay, Adilet
+AU  - Omar, Abylkaiyr
+AU  - Ali, Md. Hazrat
+JO  - Procedia Computer Science
+VL  - 179
+SP  - 242
+EP  - 251
+PY  - 2021
+DA  - 2021/01/01/
+T2  - 5th International Conference on Computer Science and Computational Intelligence 2020
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2021.01.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050921000041
+KW  - drone
+KW  - UAV
+KW  - quadcopter
+AB  - Nowadays, drones are popular with their multipurpose functioning. They can be applied in different environments, especially those that are harmful and can cause health hazards to the human being. However, drones are expensive, have limitations in the lifting capabilities, difficult in control, and auto-balancing. This paper focuses on deriving a mathematical model of the quadcopter with its characteristic properties to solve the auto-balancing problem. The research determines the mathematical model of the unmanned aerial vehicles (UAV) and then incorporates characteristic values of the constructed model (Ixx, τthrust and etc.) to the general model. The derived equation is used in identifying the controlling parameters of the quadcopter. The key focus of this research is to develop a cost-effective, self-stabilizing, and robust control system using affordable components. A gyroscope MPU6050, a transmitter, and a receiver (with at least 4 inputs) were integrated with microcontrollers to develop the system.
+ER  - 
